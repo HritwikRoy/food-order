@@ -29,7 +29,9 @@ input {
     caret-color: blue;
     margin-top: 10px;
 }
-
+input {
+    color: black;
+}
 .f {
     width: 60%;
     height: 11vh;
